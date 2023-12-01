@@ -1,0 +1,20 @@
+{
+  "name": "aoc",
+  "version": "1.0.0",
+  "description": "\"# aoc\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nebula-2003/aoc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nebula-2003/aoc/issues"
+  },
+  "homepage": "https://github.com/Nebula-2003/aoc#readme"
+}
