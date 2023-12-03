@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Nebula-2003/aoc/issues"
   },
-  "homepage": "https://github.com/Nebula-2003/aoc#readme"
+  "homepage": "https://github.com/Nebula-2003/aoc#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
